@@ -1,21 +1,18 @@
-.odd-number {
+.odd {
     background-color: rgb(255, 182, 193);
-    font-family: "verdana", "dejavu sans", sans-serif;
+    font-family: verdana, "dejavu sans", sans-serif;
 }
 
-.odd-number3 {
-    background-color: rgb(255, 182, 193);
-    font-family: "verdana", "dejavu sans", sans-serif;
+.adjust-font-size {
     font-size: 24px;
 }
 
-#first-even {
+#two {
     color: blue;
     font-size: 36px;
 }
 
-#second-even {
+#four {
     background-color: rgb(144, 238, 144);
-    font-size: 24px;
     font-weight: 700;
 }
