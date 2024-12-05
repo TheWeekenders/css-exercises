@@ -2,3 +2,20 @@
     background-color: rgb(255, 182, 193);
     font-family: "verdana", "dejavu sans", sans-serif;
 }
+
+.odd-number3 {
+    background-color: rgb(255, 182, 193);
+    font-family: "verdana", "dejavu sans", sans-serif;
+    font-size: 24px;
+}
+
+#first-even {
+    color: blue;
+    font-size: 36px;
+}
+
+#second-even {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: 700;
+}
